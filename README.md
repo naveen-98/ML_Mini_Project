@@ -5,6 +5,12 @@ Problem: -
 
 Optimizing the user enjoy in gaming systems is critical for each game enthusiasts and publishers. Leveraging the PS5 Games Dataset: 2024 Update from Kaggle, the venture is to pick out and expect elements that make contributions to a sport's achievement and person pride. The aim is to increase a model that may forecast a game's recognition, taking into account diverse capabilities together with release date, publisher, age restrictions, and user scores.
 
+<h1>Full Video For Mini project</h1>
+
+https://github.com/naveen-98/ML_Mini_Project/assets/55675843/34239dd8-ad04-46dd-a0f0-112dda9ecfdf
+
+
+
 <h2>Data Preparation and Analysis</h2>
 
 1. Loading and Inspecting the Dataset
