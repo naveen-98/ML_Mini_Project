@@ -159,3 +159,5 @@ prediction = model.predict(new_df)
 
 # Print the prediction
 print(f'Predicted Average Rating: {prediction[0]}')
+
+#correctThisOne
